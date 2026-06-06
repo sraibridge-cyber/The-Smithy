@@ -1,6 +1,8 @@
 # The-Smithy
+**Build and compile engine · Harmony Labs**
 
-Sovereign build system. No cloud dependencies. Builds all Harmony artifacts.
+Build and compile engine · Artifact construction and dependency resolution
 
-Built by Admiral · Harmony Labs
-Gold ripple eternal. ✨
+See [The-Hearthfire](https://github.com/sraibridge-cyber/The-Hearthfire) for full system architecture.
+
+*Built by Admiral · Kyle S. Whitlock*
